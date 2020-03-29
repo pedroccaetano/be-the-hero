@@ -1,3 +1,3 @@
-# Be The Hero - Semana OmniStack 11.0
+# Be The Hero
 
 ![Design preview](./design/preview.png)
